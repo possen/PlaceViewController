@@ -22,7 +22,6 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-
         print(place.counter)
         print(place.info)
         update()
