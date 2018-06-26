@@ -12,6 +12,7 @@
 		D50601FE20E1F6F500A2B5FC /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D50601FC20E1F6F500A2B5FC /* Main.storyboard */; };
 		D506020020E1F6FA00A2B5FC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D50601FF20E1F6FA00A2B5FC /* Assets.xcassets */; };
 		D506020320E1F6FA00A2B5FC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D506020120E1F6FA00A2B5FC /* LaunchScreen.storyboard */; };
+		D506020C20E2073C00A2B5FC /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = D506020B20E2073C00A2B5FC /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		D50601FF20E1F6FA00A2B5FC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D506020220E1F6FA00A2B5FC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D506020420E1F6FA00A2B5FC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D506020B20E2073C00A2B5FC /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 		D50601F720E1F6F500A2B5FC /* PlaceViewController */ = {
 			isa = PBXGroup;
 			children = (
+				D506020B20E2073C00A2B5FC /* README.md */,
 				D50601F820E1F6F500A2B5FC /* AppDelegate.swift */,
 				D50601FA20E1F6F500A2B5FC /* ViewController.swift */,
 				D50601FC20E1F6F500A2B5FC /* Main.storyboard */,
@@ -124,6 +127,7 @@
 			files = (
 				D506020320E1F6FA00A2B5FC /* LaunchScreen.storyboard in Resources */,
 				D506020020E1F6FA00A2B5FC /* Assets.xcassets in Resources */,
+				D506020C20E2073C00A2B5FC /* README.md in Resources */,
 				D50601FE20E1F6F500A2B5FC /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
