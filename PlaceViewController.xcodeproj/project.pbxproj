@@ -15,7 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		D50601F520E1F6F500A2B5FC /* DelayedInitiailzerViewController.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DelayedInitiailzerViewController.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		D50601F520E1F6F500A2B5FC /* PlaceViewController.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PlaceViewController.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D50601F820E1F6F500A2B5FC /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D50601FA20E1F6F500A2B5FC /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		D50601FD20E1F6F500A2B5FC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -38,7 +38,7 @@
 		D50601EC20E1F6F500A2B5FC = {
 			isa = PBXGroup;
 			children = (
-				D50601F720E1F6F500A2B5FC /* DelayedInitiailzerViewController */,
+				D50601F720E1F6F500A2B5FC /* PlaceViewController */,
 				D50601F620E1F6F500A2B5FC /* Products */,
 			);
 			sourceTree = "<group>";
@@ -46,12 +46,12 @@
 		D50601F620E1F6F500A2B5FC /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				D50601F520E1F6F500A2B5FC /* DelayedInitiailzerViewController.app */,
+				D50601F520E1F6F500A2B5FC /* PlaceViewController.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		D50601F720E1F6F500A2B5FC /* DelayedInitiailzerViewController */ = {
+		D50601F720E1F6F500A2B5FC /* PlaceViewController */ = {
 			isa = PBXGroup;
 			children = (
 				D50601F820E1F6F500A2B5FC /* AppDelegate.swift */,
@@ -61,15 +61,15 @@
 				D506020120E1F6FA00A2B5FC /* LaunchScreen.storyboard */,
 				D506020420E1F6FA00A2B5FC /* Info.plist */,
 			);
-			path = DelayedInitiailzerViewController;
+			path = PlaceViewController;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		D50601F420E1F6F500A2B5FC /* DelayedInitiailzerViewController */ = {
+		D50601F420E1F6F500A2B5FC /* PlaceViewController */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = D506020720E1F6FB00A2B5FC /* Build configuration list for PBXNativeTarget "DelayedInitiailzerViewController" */;
+			buildConfigurationList = D506020720E1F6FB00A2B5FC /* Build configuration list for PBXNativeTarget "PlaceViewController" */;
 			buildPhases = (
 				D50601F120E1F6F500A2B5FC /* Sources */,
 				D50601F220E1F6F500A2B5FC /* Frameworks */,
@@ -79,9 +79,9 @@
 			);
 			dependencies = (
 			);
-			name = DelayedInitiailzerViewController;
+			name = PlaceViewController;
 			productName = DelayedInitiailzerViewController;
-			productReference = D50601F520E1F6F500A2B5FC /* DelayedInitiailzerViewController.app */;
+			productReference = D50601F520E1F6F500A2B5FC /* PlaceViewController.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -99,7 +99,7 @@
 					};
 				};
 			};
-			buildConfigurationList = D50601F020E1F6F500A2B5FC /* Build configuration list for PBXProject "DelayedInitiailzerViewController" */;
+			buildConfigurationList = D50601F020E1F6F500A2B5FC /* Build configuration list for PBXProject "PlaceViewController" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -112,7 +112,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				D50601F420E1F6F500A2B5FC /* DelayedInitiailzerViewController */,
+				D50601F420E1F6F500A2B5FC /* PlaceViewController */,
 			);
 		};
 /* End PBXProject section */
@@ -315,7 +315,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		D50601F020E1F6F500A2B5FC /* Build configuration list for PBXProject "DelayedInitiailzerViewController" */ = {
+		D50601F020E1F6F500A2B5FC /* Build configuration list for PBXProject "PlaceViewController" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				D506020520E1F6FB00A2B5FC /* Debug */,
@@ -324,7 +324,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		D506020720E1F6FB00A2B5FC /* Build configuration list for PBXNativeTarget "DelayedInitiailzerViewController" */ = {
+		D506020720E1F6FB00A2B5FC /* Build configuration list for PBXNativeTarget "PlaceViewController" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				D506020820E1F6FB00A2B5FC /* Debug */,
